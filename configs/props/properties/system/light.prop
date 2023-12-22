@@ -1,0 +1,15 @@
+#
+# light (cn) specific properties
+#
+
+ro.build.product=light
+ro.build.fingerprint=Redmi/light/light:12/SP1A.210812.016/V13.0.11.0.SLSMIXM:user/release-keys
+
+ro.product.device=light
+ro.product.marketname=Redmi 10 5G
+ro.product.product.model=Redmi 10 5G
+
+ro.product.system.device=light
+ro.product.system.marketname=Redmi 10 5G
+ro.product.system.model=Redmi 10 5G
+ro.product.system.fingerprint=Redmi/light/light:12/SP1A.210812.016/V13.0.11.0.SLSMIXM:user/release-keys

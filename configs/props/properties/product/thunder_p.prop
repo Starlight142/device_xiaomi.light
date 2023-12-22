@@ -1,0 +1,10 @@
+#
+# light (in) specific properties
+#
+
+ro.product.product.brand=POCO
+ro.product.product.device=thunder
+ro.product.product.marketname=POCO M4 5G
+ro.product.product.model=POCO M4 5G
+
+ro.product.product.fingerprint=Redmi/light_in/light:12/SP1A.210812.016/V13.0.11.0.SLSMIXM:user/release-keys

@@ -1,0 +1,9 @@
+#
+# light (gl) specific properties
+#
+
+ro.product.product.device=thunder
+ro.product.product.marketname=Redmi 10 5G
+ro.product.product.model=Redmi 10 5G
+
+ro.product.product.fingerprint=Redmi/light_gl/light:12/SP1A.210812.016/V13.0.11.0.SLSMIXM:user/release-keys

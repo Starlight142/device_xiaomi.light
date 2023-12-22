@@ -1,0 +1,9 @@
+#
+# light (cn) specific properties
+#
+
+ro.product.product.device=light
+ro.product.product.marketname=Redmi Note 11R
+ro.product.product.model=Redmi Note 11R
+
+ro.product.product.fingerprint=Redmi/light/light:12/SP1A.210812.016/V13.0.11.0.SLSMIXM:user/release-keys

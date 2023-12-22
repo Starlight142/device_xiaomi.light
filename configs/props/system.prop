@@ -1,0 +1,3 @@
+# Device specific properties
+import /system/build_${ro.boot.product.hardware.sku}.prop
+

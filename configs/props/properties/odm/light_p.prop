@@ -1,0 +1,10 @@
+#
+# light (p_in) specific properties
+#
+
+ro.product.odm.brand=POCO
+ro.product.odm.device=light
+ro.product.odm.marketname=POCO M4 5G
+ro.product.odm.model=POCO M4 5G
+
+ro.product.odm.fingerprint=Redmi/light_p_in/light:12/SP1A.210812.016/V13.0.11.0.SLSMIXM:user/release-keys

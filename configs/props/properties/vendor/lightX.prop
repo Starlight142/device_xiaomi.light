@@ -1,0 +1,12 @@
+#
+# light (cn) specific properties
+#
+
+ro.product.vendor.device=light
+ro.product.vendor.marketname=Redmi Note 11R
+ro.product.vendor.model=Redmi Note 11R
+ro.product.vendor.fingerprint=Redmi/light/light:12/SP1A.210812.016/V13.0.11.0.SLSMIXM:user/release-keys
+
+# NFC
+ro.boot.product.hardware.sku=nfc
+ro.vendor.mtk_nfc_addon_support=1
